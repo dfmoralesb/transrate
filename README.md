@@ -8,7 +8,7 @@ $ git clone https://github.com/dfmoralesb/transrate.git
 
 $ cd transrate
 
-$ gem bulid transrate.gemspec
+$ gem build transrate.gemspec
 
 $ sudo gem install transrate-1.0.3.gem
 
