@@ -18,7 +18,7 @@ $ gem install ~/Apps/transrate/transrate-1.0.3.gem --install-dir /home/morales/A
 
 create a conda environment with the specific version of salmon and blast (version of blast can be changed in `transrate/deps/blast.yaml`)
 
-conda create --name transrate salmon=0.8.2 blast=2.9.0
+conda create --name transrate salmon=0.8.2 blast=2.2.29
 
 run transrate in the conda env
 
